@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "proyPipes"
+    }
+  },
+  "defaultProject": "proyPipes",
+  "cli": {
+    "analytics": false
+  }
 }
